@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wine-hood-store/static/css/main.864c4f3c.css",
-    "main.js": "/wine-hood-store/static/js/main.4019ead3.js",
+    "main.js": "/wine-hood-store/static/js/main.c5412c89.js",
     "static/js/453.2405243b.chunk.js": "/wine-hood-store/static/js/453.2405243b.chunk.js",
     "static/media/degustation.mp4": "/wine-hood-store/static/media/degustation.5f174f64438ab9012c3c.mp4",
     "static/media/poidanie.mp4": "/wine-hood-store/static/media/poidanie.c852f4752bad3be4a568.mp4",
@@ -63,11 +63,11 @@
     "static/media/arrow.svg": "/wine-hood-store/static/media/arrow.2e2de878a7b4373d7d84c9e1367cd04d.svg",
     "static/media/eye-off.svg": "/wine-hood-store/static/media/eye-off.bb2f7e13049a55edfebd8e3908050386.svg",
     "main.864c4f3c.css.map": "/wine-hood-store/static/css/main.864c4f3c.css.map",
-    "main.4019ead3.js.map": "/wine-hood-store/static/js/main.4019ead3.js.map",
+    "main.c5412c89.js.map": "/wine-hood-store/static/js/main.c5412c89.js.map",
     "453.2405243b.chunk.js.map": "/wine-hood-store/static/js/453.2405243b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.864c4f3c.css",
-    "static/js/main.4019ead3.js"
+    "static/js/main.c5412c89.js"
   ]
 }
